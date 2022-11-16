@@ -1,0 +1,56 @@
+[
+	{
+		"id": "productsMainItem1",
+		"name": "Napule",
+		"stars": "4.5",
+		"price": "900",
+		"category": "Пицца",
+		"image": "img/imgs/napule/preview.jpg",
+		"products": "db/napule.json"
+	},
+	{
+		"id": "productsMainItem2",
+		"name": "Totoroll",
+		"stars": "3.0",
+		"price": "500",
+		"category": "Пицца и суши",
+		"image": "img/imgs/totoroll/preview.jpg",
+		"products": "db/totoroll.json"
+	},
+	{
+		"id": "productsMainItem3",
+		"name": "Food Band",
+		"stars": "4.6",
+		"price": "850",
+		"category": "Пицца и суши",
+		"image": "img/imgs/food-band/preview.jpg",
+		"products": "db/foodband.json"
+	},
+	{
+		"id": "productsMainItem4",
+		"name": "Корчма",
+		"stars": "3.9",
+		"price": "600",
+		"category": "Пицца и суши",
+		"image": "img/imgs/korchma/preview.jpg",
+		"products": "db/korchma.json"
+	},
+	{
+		"id": "productsMainItem5",
+		"name": "Палки-скалки",
+		"stars": "5.3",
+		"price": "930",
+		"category": "Пицца и суши",
+		"image": "img/imgs/palki-skalki/preview.jpg",
+		"products": "db/palki.json"
+	},
+	{
+		"id": "productsMainItem6",
+		"name": "PizzaBurger",
+		"stars": "3.9",
+		"price": "890",
+		"category": "Пицца и суши",
+		"image": "img/imgs/pizza-burger/preview.jpg",
+		"products": "db/pizzaburger.json"
+	}
+]
